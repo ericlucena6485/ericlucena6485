@@ -1,8 +1,8 @@
 ## Olá, eu sou @ericlucena6485
 
-- 👀 Tenho interesse em desenvolvimento web
-- 🌱 Atualmente curso Engenharia de Software
-
+-  Tenho interesse em desenvolvimento web
+-  Atualmente curso Engenharia de Software e Ciência da Comptação
+- Quality Assurence no FitBank 450
  <div>
   <a href="https://github.com/ericlucena6485">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericlucena6485&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
