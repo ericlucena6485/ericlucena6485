@@ -1,8 +1,9 @@
 ## Olá, eu sou @ericlucena6485
 
--  Tenho interesse em desenvolvimento web
--  Atualmente curso Engenharia de Software e Ciência da Comptação
 - Quality Assurence no FitBank 450
+-  Tenho interesse em desenvolvimento web
+-  Atualmente curso Engenharia de Software e Ciência da Computação
+
  <div>
   <a href="https://github.com/ericlucena6485">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericlucena6485&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -24,7 +25,7 @@
  
  <div>
   <a href="https://www.youtube.com/channel/UCovZczOsxFGyd1bjzXdOXLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/eric_lucena1.9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eric_lucena2.0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/gw5gpzW9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto: eric.lucena@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eric-l-2409a2139/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
